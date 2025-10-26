@@ -23,6 +23,6 @@ A beginner Electrical and Electronics Engineering (EEE) project using an Arduino
 ## How to Run
 
 1.  Wire the components according to the circuit diagram.
-2.  Open `pending` in the Arduino IDE.
+2.  Open `src/Smart LED Traffic Light Controller (Arduino).cpp` in the Arduino IDE.
 3.  Select the correct board (Arduino Uno) and port.
 4.  Upload the code. The sequence will begin automatically. Press the button (Pin 2) to test the pedestrian interrupt!
